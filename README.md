@@ -7,8 +7,9 @@ Conheça a Friend.
 ## Sobre a Friend Consulting 
 
 ##### Somos focados no Digital
+A Friend é uma empresa com mais de 10 anos de experiência em projetos e na alocação de profissionais especializados em TI e SAP.
 Te conectamos aos melhores profissionais do mercado. Ajudamos você a encontrar talentos, criar e gerenciar sua equipe.
-Todo o nosso processo acontece de maneira digital e sem burocracia, isso torna tudo mais ágil. Sabemos que o seu projeto não pode esperar.
+Todo o nosso processo acontece de maneira digital e sem burocracia, isso torna tudo mais ágil.
 
 ## Como funciona?
 
