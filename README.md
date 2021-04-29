@@ -19,16 +19,14 @@ Todo o nosso processo acontece de maneira digital e sem burocracia, isso torna t
 4. Você participa da entrevista junto ao gestor responsável;
 5. Realizamos a sua contratação como PJ ou Coperado.
 
+## Quais são as vagas abertas no momento?
+
+[CLOUD ARCHITECT](https://friend.gupy.io/jobs/776610?jobBoardSource=gupy_public_page)
+
+[DESENVOLVEDOR .NET BACKEND SÊNIOR](https://friend.gupy.io/jobs/685147?jobBoardSource=gupy_public_page)
 
 
+## Não encontrou a vaga ideal?
 
-
-
-
-
-
-
-
-
-[Veja as vagas disponíveis](https://friend.gupy.io/)
+Deixe o seu CV no nosso [banco de talentos](https://friend.gupy.io/jobs/79949?jobBoardSource=gupy_public_page), caso surja uma oportunidade voltada ao seu perfil, manteremos contato.
 
