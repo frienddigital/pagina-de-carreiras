@@ -1,6 +1,5 @@
-# Página de Carreiras da Friend
+# Página de Carreiras
 
-Conheça a Friend.
 
 ![banner-friend](https://s3.amazonaws.com/gupy5/production/companies/590/career/694/images/mainImage.jpg)
 
